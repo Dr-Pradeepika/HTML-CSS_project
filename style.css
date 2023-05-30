@@ -74,12 +74,12 @@ body {
 }
 
 .order-list {
-  display: flex;
-  justify-content: center;
-  list-style-type: none;
-  gap: 20px;
-  padding: 0;
-}
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    gap: 20px;
+  }
 
 .order-list a {
   display: block;
