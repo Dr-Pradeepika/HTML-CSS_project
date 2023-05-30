@@ -77,8 +77,9 @@ body {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    padding: 0;
     gap: 20px;
+    padding: 0;
+    
   }
 
 .order-list a {
